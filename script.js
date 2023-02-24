@@ -15,7 +15,6 @@ function checkGame()
 	res.textContent = "Cold";
    }
 }
-checkGame();
 function generateRandomNumber()
 {
 	var no = Math.floor(Math.random() * 20);
